@@ -10,6 +10,9 @@ body {
     margin: 0;
     padding: 0;
 }
+#root {
+    height: 100%;
+}
 .counter {
     width: 300px;
     height: 300px;
